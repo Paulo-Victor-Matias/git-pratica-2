@@ -1,5 +1,6 @@
 # Minha primeira atividade com Git
 
-Nome:
+Nome: Paulo Victor Matias Ferreira
 
-Curso:
+Curso: Sistemas de Informação
+
